@@ -6,4 +6,12 @@ This program gives me a way to see which professors I might be interested to wor
 
 The final product is a short and simple Excel file that I can scroll through and immediately identify which faculty members I might be interested to work for based on their research tldr.
 
-Screen Shot 2024-06-10 at 10 38 05 AM Screen Shot 2024-06-10 at 10 39 05 AM Screen Shot 2024-06-10 at 10 40 23 AM
+![image](https://github.com/lsyurievna/Scraping-Project/assets/61998449/8526cb6b-a34a-41e3-b901-5d688eeaf8da)
+
+![image](https://github.com/lsyurievna/Scraping-Project/assets/61998449/d5912a3f-1eb1-4931-b425-adf7b66bd9e3)
+
+![image](https://github.com/lsyurievna/Scraping-Project/assets/61998449/b941e751-0804-48bd-b8ef-7ee71c6f17df)
+
+
+
+
